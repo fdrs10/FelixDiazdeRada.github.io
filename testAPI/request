@@ -1,0 +1,16 @@
+{
+	"region":"amarillo",
+	"title_status":"clean",
+	"condition":"excellent",
+	"age":"5",
+	"manufacturer":"ford",
+	"model":"focus",
+	"cylinders":"4 cylinders",
+	"fuel":"gas",
+	"odometer":"100000",
+	"transmission":"manual",
+	"drive":"sedan",
+    "cartype":"coupe",
+	"paint_color":"silver",
+	"n_sold":"10"
+}
